@@ -1,4 +1,4 @@
-# Projetos-Python-Back-End
+# Projetos-Python
 Repositório de projetos desenvolvidos em linguagem python
 
 Por: Jônatas Fernandes
